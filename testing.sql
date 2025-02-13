@@ -1,1 +1,1 @@
-select * from powerbi_demo.collegiate_athlete_injury_dataset;
+select * from powerbi_demo.athlete_schema.collegiate_athlete_injury_dataset;
